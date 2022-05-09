@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tetianasabanina
 - 👀 I’m interested in frontend developing.
-- 🌱 I’m currently learning MERN-stack.
+- 🌱 My current stack is MERN.
 - 💞️ I’m looking to collaborate on React.js projects.
 - 📫 How to reach me https://www.linkedin.com/in/tetiana-sabanina/
 
